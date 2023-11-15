@@ -103,6 +103,8 @@
 body {
   background-color: #f2f0f0;
   margin-bottom: 50px;
+  margin-top: 130px;
+  
 }
 html, button, input, select, textarea {
     font-family: 'Montserrat', Helvetica, sans-serif;
